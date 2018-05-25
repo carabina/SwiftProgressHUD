@@ -37,6 +37,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		80D657F020B7DCCD00BD6A2B /* SwiftProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				80F908B420B6943F002E73E7 /* SwiftProgressHUD.swift */,
+			);
+			path = SwiftProgressHUD;
+			sourceTree = "<group>";
+		};
 		80F9089620B693EA002E73E7 = {
 			isa = PBXGroup;
 			children = (
@@ -58,7 +66,7 @@
 			children = (
 				80F908A220B693EA002E73E7 /* AppDelegate.swift */,
 				80F908A420B693EA002E73E7 /* ViewController.swift */,
-				80F908B420B6943F002E73E7 /* SwiftProgressHUD.swift */,
+				80D657F020B7DCCD00BD6A2B /* SwiftProgressHUD */,
 				80F908A620B693EA002E73E7 /* Main.storyboard */,
 				80F908A920B693EC002E73E7 /* Assets.xcassets */,
 				80F908AB20B693EC002E73E7 /* LaunchScreen.storyboard */,
