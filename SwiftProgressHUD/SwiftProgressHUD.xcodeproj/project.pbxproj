@@ -12,6 +12,7 @@
 		80F908A820B693EA002E73E7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80F908A620B693EA002E73E7 /* Main.storyboard */; };
 		80F908AA20B693EC002E73E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80F908A920B693EC002E73E7 /* Assets.xcassets */; };
 		80F908AD20B693EC002E73E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80F908AB20B693EC002E73E7 /* LaunchScreen.storyboard */; };
+		80F908B520B6943F002E73E7 /* SwiftProgressHUD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80F908B420B6943F002E73E7 /* SwiftProgressHUD.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		80F908A920B693EC002E73E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		80F908AC20B693EC002E73E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		80F908AE20B693EC002E73E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		80F908B420B6943F002E73E7 /* SwiftProgressHUD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftProgressHUD.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				80F908A220B693EA002E73E7 /* AppDelegate.swift */,
 				80F908A420B693EA002E73E7 /* ViewController.swift */,
+				80F908B420B6943F002E73E7 /* SwiftProgressHUD.swift */,
 				80F908A620B693EA002E73E7 /* Main.storyboard */,
 				80F908A920B693EC002E73E7 /* Assets.xcassets */,
 				80F908AB20B693EC002E73E7 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				80F908A520B693EA002E73E7 /* ViewController.swift in Sources */,
+				80F908B520B6943F002E73E7 /* SwiftProgressHUD.swift in Sources */,
 				80F908A320B693EA002E73E7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
